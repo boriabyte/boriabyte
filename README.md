@@ -29,6 +29,10 @@
 
 🔰 Currently seeking to further perfect Python and Java skills
 
+# 🌍 Languages
+
+   - English C2
+
 
 <!---
 boriabyte/boriabyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
