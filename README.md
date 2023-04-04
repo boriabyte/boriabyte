@@ -1,7 +1,34 @@
-- 👋 Hi, I’m @boriabyte
-- 👀 I’m interested in everything related to coding, even though I'm a relative amateur.
-- 🌱 I’m currently learning C/C++, Python, Java and JavaScript, together with some HTML and CSS.
-- 📫 How to reach me: by mail: horia.mihai.scarlat@outlook.com or on LinkedIn: linkedin.com/in/horia-mihai-scarlat/
+# Horia Scarlat
+
+21 yo from Bucharest, studying Electronics, Telecommunications and Information Technology at the "Politehnica" University
+
+# 🖥️ Software skills
+
+### Frontend
+   
+   - HTML5 
+   - CSS3
+   
+### Backend
+   
+   - C/C++
+   - x86 Assembly
+   - Python
+   - Java
+    
+**also some skills with Verilog HDL**
+
+# ❔ Interests
+
+   - Programming
+   - Electronics 
+   - Politics
+   - History
+   - Weightlifting
+
+
+🔰 Currently seeking to further perfect Python and Java skills
+
 
 <!---
 boriabyte/boriabyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
