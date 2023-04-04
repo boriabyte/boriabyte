@@ -4,12 +4,12 @@
 
 # 🖥️ Software skills
 
-### Frontend
+### 👀 Frontend
    
    - HTML5 
    - CSS3
    
-### Backend
+### ⌨️ Backend
    
    - C/C++
    - x86 Assembly
