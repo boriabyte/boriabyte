@@ -30,7 +30,8 @@
 🔰 Currently seeking to further perfect Python and Java skills
 
 # 🌍 Languages
-
+   
+   - Romanian - Native
    - English C2
 
 
