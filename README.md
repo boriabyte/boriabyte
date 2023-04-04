@@ -31,8 +31,8 @@
 
 # 🌍 Languages
    
-   - Romanian - Native
-   - English C2
+   - 🇷🇴 Romanian - Native
+   - 🇬🇧 English C2
 
 
 <!---
