@@ -8,9 +8,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,css,html)](https://skillicons.dev) 
      
-### Backend
-   
-[![My Skills](https://skillicons.dev/icons?i=js,css,html)](https://skillicons.dev) 
+### <b>Backend</b>   
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,)](https://skillicons.dev) 
 
    Frameworks & libraries: Asp.NET, SFML, pandas, matplotlib, scikit-learn, numpy, PyTorch, TensorFlow
     
