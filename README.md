@@ -13,7 +13,7 @@
 
    Frameworks & libraries: Asp.NET Core, SFML, pandas, matplotlib, scikit-learn, numpy, PyTorch, TensorFlow
     
-# ❔ Interests
+# INTERESTS
 
    - Programming
    - Electronics 
@@ -24,7 +24,7 @@
 
 🔰 Currently learning C# with .NET & Python's machine learning frameworks/libraries
 
-# 🌍 Languages
+# LANGUAGES
    
    - 🇷🇴 Romanian - Native
    - 🇬🇧 English C2
