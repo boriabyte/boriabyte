@@ -10,7 +10,7 @@
    - CSS3
    - JavaScript
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 ### ⌨️ Backend
    
