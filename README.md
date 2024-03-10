@@ -2,7 +2,7 @@
 
 22 yo from Bucharest, studying Electronics, Telecommunications and Information Technology at the "Politehnica" University
 
-# 🖥️ Software skills
+# TECHSTACK
 
 ### 👀 Frontend
 
