@@ -8,16 +8,17 @@
    
    - HTML5 
    - CSS3
+   - JavaScript
    
 ### ⌨️ Backend
    
-   - C/C++
-   - x86 Assembly
+   - C/C++/C#/Embedded C
    - Python
    - Java
-    
-**also some skills with Verilog HDL**
+   - x86 Assembly
 
+   Frameworks & libraries: Asp.NET, SFML, pandas, matplotlib, scikit-learn, numpy, PyTorch, TensorFlow
+    
 # ❔ Interests
 
    - Programming
@@ -27,7 +28,7 @@
    - Weightlifting
 
 
-🔰 Currently seeking to further perfect Python and Java skills
+🔰 Currently learning C# with .NET & Python's machine learning frameworks/libraries
 
 # 🌍 Languages
    
