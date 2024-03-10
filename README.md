@@ -5,10 +5,8 @@
 # 🖥️ Software skills
 
 ### 👀 Frontend
-   
-   - HTML5 
-   - CSS3
-   - [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) JavaScript
+
+[![My Skills](https://skillicons.dev/icons?i=js,css,html)](https://skillicons.dev) 
      
 ### ⌨️ Backend
    
