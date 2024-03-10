@@ -4,16 +4,13 @@
 
 # TECHSTACK
 
-### 👀 Frontend
+### <strong>Frontend</strong>
 
 [![My Skills](https://skillicons.dev/icons?i=js,css,html)](https://skillicons.dev) 
      
-### ⌨️ Backend
+### Backend
    
-   - C/C++/C#/Embedded C
-   - Python
-   - Java
-   - x86 Assembly
+[![My Skills](https://skillicons.dev/icons?i=js,css,html)](https://skillicons.dev) 
 
    Frameworks & libraries: Asp.NET, SFML, pandas, matplotlib, scikit-learn, numpy, PyTorch, TensorFlow
     
