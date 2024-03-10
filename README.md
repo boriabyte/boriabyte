@@ -10,6 +10,7 @@
      
 ### <b>Backend</b>   
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,py,mysql,dotnet&perline=4)](https://skillicons.dev) 
+<code><img width="35" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 
    Frameworks & libraries: Asp.NET, SFML, pandas, matplotlib, scikit-learn, numpy, PyTorch, TensorFlow
     
