@@ -9,9 +9,7 @@
    - HTML5 
    - CSS3
    - JavaScript
-
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-
+   - 
 ### ⌨️ Backend
    
    - C/C++/C#/Embedded C
