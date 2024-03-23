@@ -6,7 +6,7 @@
 
 ### <strong>Frontend</strong>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev) 
      
 ### <b>Backend</b>   
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,dotnet,py,mysql&perline=3)](https://skillicons.dev) 
