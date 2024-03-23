@@ -11,7 +11,7 @@
 ### <b>Backend</b>   
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,dotnet,py,mysql&perline=3)](https://skillicons.dev) 
 
-   Frameworks & libraries: Asp.NET Core, SFML, pandas, matplotlib, scikit-learn, numpy, PyTorch, TensorFlow
+   Frameworks & libraries: STL, Asp.NET Core, SFML, pandas, matplotlib, scikit-learn, numpy, PyTorch, TensorFlow
     
 # INTERESTS
 
