@@ -4,7 +4,7 @@
 
 Recently graduated as an Electronics Engineer from Electronics, Telecommunications and Information Technology @ "Politehnica" University
 
-Future Master's Degree student in AI @ "Politehnica" University, Faculty of Automatic Control & Computer Sciencee
+Future Master's Degree student in AI @ "Politehnica" University, Faculty of Automatic Control & Computer Science
 
 Currently working as a Junior Java SWE @ Advahoo, Bucharest (fintech solutions):
 
@@ -21,22 +21,13 @@ Currently working as a Junior Java SWE @ Advahoo, Bucharest (fintech solutions):
 ### <b>Backend</b>   
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,py,dotnet,mysql)](https://skillicons.dev) 
 
-### <strong>DevTools</strong>
-[![My Skills](https://skillicons.dev/icons?i=linux,git,grafana)](https://skillicons.dev) 
-
 Frameworks & libraries: STL, Asp.NET Core, pandas, scikit-learn, numpy, TensorFlow & Keras
 
-
-# INTERESTS
-
-   - Programming
-   - ML, DL & CV
-   - Electronics 
-   - Politics
-   - History
+### <strong>DevTools</strong>
+[![My Skills](https://skillicons.dev/icons?i=linux,git,maven,postman,grafana)](https://skillicons.dev) 
 
 
-Currently learning AI-related programming using TensorFlow; recently obtained my BSc with a thesis regarding sign language translation using NNs & CV; GPA: 9.6/10
+Currently learning AI-related programming using [![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev) ; recently obtained my BSc with a thesis regarding sign language translation using NNs & CV; GPA: 9.6/10
 
 <!---
 boriabyte/boriabyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
