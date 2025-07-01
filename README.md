@@ -1,6 +1,7 @@
 # Horia Scarlat
 
 23 yo from Bucharest, recently graduated as an Electronics Engineer from Electronics, Telecommunications and Information Technology @ "Politehnica" University
+Future Master's Degree student in AI @ "Politehnica" University, Faculty of Automatic Control & Computer Sciencee
 
 # TECHSTACK
 
@@ -23,12 +24,6 @@
 
 
 Currently learning AI-related programming using TensorFlow; recently obtained my BSc with a thesis regarding sign language translation using NNs & CV; GPA: 9.6/10
-
-# LANGUAGES
-   
-   - 🇷🇴 Romanian - Native
-   - 🇬🇧 English C2
-
 
 <!---
 boriabyte/boriabyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
