@@ -22,7 +22,7 @@ Currently working as a Junior Java SWE @ Advahoo, Bucharest (fintech solutions):
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,py,dotnet,mysql,tensorflow,opencv)](https://skillicons.dev) 
 
 ### <strong>DevTools</strong>
-[![My Skills](https://skillicons.dev/icons?i=linux,git,maven,postman,grafana,bitbucket)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=linux,git,maven,postman,grafana,bitbucket,aws)](https://skillicons.dev) 
 
 
 Currently learning AI-related programming using TensorFlow w\ Keras; recently obtained my BSc with a thesis regarding sign language translation using NNs & CV; GPA: 9.6/10
