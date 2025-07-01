@@ -16,10 +16,10 @@
 # INTERESTS
 
    - Programming
+   - ML, DL & CV
    - Electronics 
    - Politics
    - History
-   - Weightlifting
 
 
 🔰 Currently learning C# with .NET & Python's machine learning frameworks/libraries
