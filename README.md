@@ -6,6 +6,8 @@ Recently graduated as an Electronics Engineer from Electronics, Telecommunicatio
 
 Future Master's Degree student in AI @ "Politehnica" University, Faculty of Automatic Control & Computer Sciencee
 
+Currently working as a Junior Java SWE @ Advahoo, Bucharest (fintech solutions) - automation framework, banking technology solutions, internal tools development
+
 # TECHSTACK
 
 ### <strong>Frontend</strong>
