@@ -1,6 +1,9 @@
 # Horia Scarlat
 
-23 yo from Bucharest, recently graduated as an Electronics Engineer from Electronics, Telecommunications and Information Technology @ "Politehnica" University
+23 yo from Bucharest
+
+Recently graduated as an Electronics Engineer from Electronics, Telecommunications and Information Technology @ "Politehnica" University
+
 Future Master's Degree student in AI @ "Politehnica" University, Faculty of Automatic Control & Computer Sciencee
 
 # TECHSTACK
