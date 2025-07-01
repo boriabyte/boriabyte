@@ -22,7 +22,7 @@
    - History
 
 
-🔰 Currently learning AI-related programming using TensorFlow; recently obtained my BSc with a thesis regarding sign language translation using NNs & CV; GPA: 9.6/10
+Currently learning AI-related programming using TensorFlow; recently obtained my BSc with a thesis regarding sign language translation using NNs & CV; GPA: 9.6/10
 
 # LANGUAGES
    
