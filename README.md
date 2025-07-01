@@ -24,7 +24,7 @@ Currently working as a Junior Java SWE @ Advahoo, Bucharest (fintech solutions):
    Frameworks & libraries: STL, Asp.NET Core, pandas, scikit-learn, numpy, TensorFlow & Keras
 
 ### <strong>DevTools</strong>
-[![My Skills](https://skillicons.dev/icons?i=git,&perline=7)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=linux,git,grafana,&perline=7)](https://skillicons.dev) 
 # INTERESTS
 
    - Programming
