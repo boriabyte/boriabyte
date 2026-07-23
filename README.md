@@ -19,7 +19,7 @@ Currently working as a Junior Java SWE @ Advahoo, Bucharest (fintech solutions):
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev) 
      
 ### <b>Backend</b>   
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,py,dotnet,mysql,tensorflow,opencv)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,mysql,tensorflow,opencv)](https://skillicons.dev) 
 
 ### <strong>DevTools</strong>
 [![My Skills](https://skillicons.dev/icons?i=linux,git,maven,postman,grafana,bitbucket,aws)](https://skillicons.dev) 
