@@ -1,31 +1,30 @@
 # Horia Scarlat
 
-24 yo from Bucharest
+24 yo, Bucharest
 
-Recently graduated as an Electronics Engineer from Electronics, Telecommunications and Information Technology @ "Politehnica" University
+Electronics & Computer Engineering graduate from the Electronics, Telecommunications and Information Technology @ "Politehnica" University
 
 Current Master's Degree student in AI @ "Politehnica" University, Faculty of Automatic Control & Computer Science
 
-Currently working as a Junior Java SWE @ Advahoo, Bucharest (fintech solutions):
+Currently working as a Java SWE @ Advahoo, Bucharest (fintech solutions):
 
-- personally developing & maintaining an automation framework
+- developed Selenium-based automated testing framework for internal company use
     
-- working on banking technology solutions & internal tools development
+- implemented and designed systems for garnishment processes, high-volume file imports, backoffice software
+
+- built automated pipelines for data extraction, such as daily-updated exchange rate from the National Bank, eliminating manual retrieval overhead
 
 # TECHSTACK
-
-### <strong>Frontend</strong>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev) 
      
-### <b>Backend</b>   
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,mysql,tensorflow,opencv)](https://skillicons.dev) 
+### <b>Languages</b>   
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,sql)](https://skillicons.dev)
 
-### <strong>DevTools</strong>
-[![My Skills](https://skillicons.dev/icons?i=linux,git,maven,postman,grafana,bitbucket,aws)](https://skillicons.dev) 
+### <b>AI</b>
 
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,opencv)](https://skillicons.dev)
 
-Currently learning AI-related programming using TensorFlow w\ Keras; recently obtained my BEng with a thesis regarding sign language translation using NNs & CV; Mark: 9.6/10
+### <strong>Development</strong>
+[![My Skills](https://skillicons.dev/icons?i=linux,git,maven,postman,grafana,bitbucket)](https://skillicons.dev) 
 
 <!---
 boriabyte/boriabyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
