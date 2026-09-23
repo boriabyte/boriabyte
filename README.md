@@ -1,32 +1,26 @@
 # Horia Scarlat
 
-24 yo, Bucharest
+Software Engineer based in Bucharest, currently working on enterprise fintech systems with **Java** and pursuing an **M.Sc. in Artificial Intelligence** at POLITEHNICA Bucharest.
 
-Electronics & Computer Engineering graduate from the Electronics, Telecommunications and Information Technology @ "Politehnica" University
+My background is in **Electronics & Computer Engineering**, with interests spanning backend development, machine learning and computer vision.
 
-Current Master's Degree student in AI @ "Politehnica" University, Faculty of Automatic Control & Computer Science
+### Experience
 
-Currently working as a Java SWE @ Advahoo, Bucharest (fintech solutions):
+* Enterprise Java development for banking and fintech applications
+* Automated testing with Selenium
+* High-volume data import and processing systems
+* REST and SOAP integrations
+* Workflow and back-office systems
+* Automated data extraction pipelines
 
-- developed Selenium-based automated testing framework for internal company use
-    
-- implemented and designed systems for garnishment processes, high-volume file imports, backoffice software
+### Tech
 
-- built automated pipelines for data extraction, such as daily-updated exchange rate from the National Bank, eliminating manual retrieval overhead
+**Languages:** Java, C++, Python, C, SQL, Groovy, JavaScript
+**Backend:** REST, SOAP, Maven, Payara, Camunda BPM
+**Databases:** Oracle, SQL Server
+**AI / CV:** TensorFlow, OpenCV
+**Tools:** Git, Linux, Azure, Bitbucket, Postman, Grafana
 
-# TECHSTACK
-     
-### <b>Languages</b>   
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,sql)](https://skillicons.dev)
+### Current interests
 
-### <b>AI</b>
-
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,opencv)](https://skillicons.dev)
-
-### <strong>Development</strong>
-[![My Skills](https://skillicons.dev/icons?i=linux,git,maven,postman,grafana,azure,bitbucket)](https://skillicons.dev) 
-
-<!---
-boriabyte/boriabyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Machine Learning · Computer Vision · C++ · Backend Engineering
