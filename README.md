@@ -25,7 +25,7 @@ My background is in **Electronics & Computer Engineering**, with interests spann
 
 **Databases:** Oracle, SQL Server
 
-**AI / CV:** TensorFlow, OpenCV
+**AI / CV:** TensorFlow, PyTorch, Keras, OpenCV
 
 **Tools:** Git, Linux, Azure, Bitbucket, Postman, Grafana
 
