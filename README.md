@@ -1,7 +1,5 @@
 # Horia Scarlat
 
-<hr>
-
 Software Engineer based in Bucharest, currently working on enterprise fintech systems with **Java** and pursuing an **M.Sc. in Artificial Intelligence** at POLITEHNICA Bucharest.
 
 My background is in **Electronics & Computer Engineering**, with interests spanning backend development, machine learning and computer vision.
