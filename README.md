@@ -24,7 +24,7 @@ Currently working as a Java SWE @ Advahoo, Bucharest (fintech solutions):
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,opencv)](https://skillicons.dev)
 
 ### <strong>Development</strong>
-[![My Skills](https://skillicons.dev/icons?i=linux,git,maven,postman,grafana,bitbucket)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=linux,git,maven,postman,grafana,azure,bitbucket)](https://skillicons.dev) 
 
 <!---
 boriabyte/boriabyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
