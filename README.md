@@ -16,9 +16,13 @@ My background is in **Electronics & Computer Engineering**, with interests spann
 ### Tech
 
 **Languages:** Java, C++, Python, C, SQL, Groovy, JavaScript
+
 **Backend:** REST, SOAP, Maven, Payara, Camunda BPM
+
 **Databases:** Oracle, SQL Server
+
 **AI / CV:** TensorFlow, OpenCV
+
 **Tools:** Git, Linux, Azure, Bitbucket, Postman, Grafana
 
 ### Current interests
